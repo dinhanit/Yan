@@ -15,7 +15,7 @@ git clone https://github.com/dinhanit/YanGPT
 
 ## Bước 3: Active môi trường:
 
-![Logo GitHub]([https://github.com/yourusername/yourrepo/raw/main/images/github-logo.png](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/1.jpg))
+![Logo GitHub](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/1.jpg)
 
 
 Sau khi cài đặt thành công, bạn đã hoàn thành quá trình cài đặt phần mềm ABC. Bây giờ bạn có thể mở ứng dụng và bắt đầu sử dụng.
