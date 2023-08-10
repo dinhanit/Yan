@@ -9,17 +9,17 @@ Chào mừng bạn đến với hướng dẫn cài đặt YanGPT! Dưới đây
 
 ## Bước 1: Chuẩn bị
 ### Tải code về: git clone https://github.com/dinhanit/YanGPT
-### Tải môi trường: 
+### Tải môi trường: https://drive.google.com/file/d/1ZpvpdVRNy6TPj6k7e26n4R1--J8cmzut/view?usp=sharing
 ## Bước 2: Giải nén môi trường:
 
 ## Bước 3: Active môi trường:
 
-![Logo GitHub](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/1.jpg)
-![Logo GitHub](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/2.jpg)
+![Logo 1](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/1.jpg)
+![Logo 2](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/2.jpg)
 
 ## Bước 4: Add ApiKey vào file apikey
-![Logo GitHub](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/3.jpg)
+![Logo 3](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/3.jpg)
 
 ## Chạy demo
-![Logo GitHub](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/4.jpg)
+![Logo 4](https://github.com/dinhanit/Yan/blob/main/GuideYanGPT/4.jpg)
 
