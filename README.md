@@ -4,7 +4,7 @@ Welcome to the YanGPT installation guide for Yanshee! Below are detailed steps t
 
 ## Requirements
 
-- Python Version: 3.9.
+- Python Version: 3.8.
 - GPT API Key from OPENAI.
 
 ## Step 1: Preparation
