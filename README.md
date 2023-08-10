@@ -1,4 +1,4 @@
-# Installing YanGPT on Yanshee
+# Install YanGPT on Yanshee
 
 Welcome to the YanGPT installation guide for Yanshee! Below are detailed steps to help you install the YanGPT easily.
 
